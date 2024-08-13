@@ -1,0 +1,32 @@
+.color-chocolate {
+    color: rgb(123, 57, 10);
+}
+
+.color-red {
+    color: red;
+}
+
+.background {
+    background-color: chocolate;
+    border-radius: 10px;
+    width: 40%;
+    padding: 0.5%;
+}
+
+.mg-left {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.padding-left {
+    padding-left: 10px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-40 {
+    font-size: 40px;
+}
+
